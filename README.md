@@ -1,0 +1,2 @@
+# This code is so IMPORTANT...!!!
+Here the code is so importnt because in every project the developer follow or implement some implementation technique. Here I gather all the techniques. Basically its a data base and project work flow pattern.
